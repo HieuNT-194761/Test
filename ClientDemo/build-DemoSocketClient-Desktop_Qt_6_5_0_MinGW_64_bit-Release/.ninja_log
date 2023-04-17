@@ -1,0 +1,9 @@
+# ninja log v5
+3	2213	7027394483897756	DemoSocketClient_autogen/timestamp	2094764cb221a52d
+3	2213	7027394483897756	DemoSocketClient_autogen/mocs_compilation.cpp	2094764cb221a52d
+3	2213	7027394483897756	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Release/DemoSocketClient_autogen/timestamp	2094764cb221a52d
+3	2213	7027394483897756	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Release/DemoSocketClient_autogen/mocs_compilation.cpp	2094764cb221a52d
+2229	5521	7027394519931791	CMakeFiles/DemoSocketClient.dir/DemoSocketClient_autogen/mocs_compilation.cpp.obj	6a18319738e8e77a
+2215	5595	7027394520667332	CMakeFiles/DemoSocketClient.dir/main.cpp.obj	d572cb8da26af07
+2266	6268	7027394527364241	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	71de74b4903bc1ab
+6271	6902	7027394533459301	DemoSocketClient.exe	303341f7020e5fbd

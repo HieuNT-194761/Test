@@ -1,0 +1,9 @@
+C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/DemoSocketClient.dir
+C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/DemoSocketClient_autogen_timestamp_deps.dir
+C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/DemoSocketClient_autogen.dir

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-8481dcd9fe35c4349c94.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DemoSocketClient",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DemoSocketClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DemoSocketClient-Release-582d358c33829a857a47.json",
+					"name" : "DemoSocketClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DemoSocketClient_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DemoSocketClient_autogen-Release-2f5fc0f3e70dbfdfe5f4.json",
+					"name" : "DemoSocketClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DemoSocketClient_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DemoSocketClient_autogen_timestamp_deps-Release-74e8569ba39acf0830a4.json",
+					"name" : "DemoSocketClient_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Release",
+		"source" : "C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/DemoSocketClient"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

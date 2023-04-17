@@ -1,0 +1,79 @@
+# ninja log v5
+1	1395	7027287832734200	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+1	1395	7027287832734200	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+1	1395	7027287832734200	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+1	1395	7027287832734200	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+1414	4136	7027287863119374	CMakeFiles/DemoSocketClient.dir/DemoSocketClient_autogen/mocs_compilation.cpp.obj	17e2b6f6e3fc948f
+1396	4883	7027287870652536	CMakeFiles/DemoSocketClient.dir/main.cpp.obj	9317017eba42c63f
+7	522	7027290611323584	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+7	522	7027290611323584	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+7	522	7027290611323584	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+7	522	7027290611323584	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+540	2763	7027290633732388	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2764	3150	7027290637399454	DemoSocketClient.exe	5d7e624e7b8f4df7
+6	475	7027292753972384	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+6	475	7027292753972384	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+6	475	7027292753972384	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+6	475	7027292753972384	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+500	2619	7027292775409686	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2620	2930	7027292778369802	DemoSocketClient.exe	5d7e624e7b8f4df7
+5	372	7027463727844109	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+5	372	7027463727844109	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+5	372	7027463727844109	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+5	372	7027463727844109	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+390	2481	7027463748767417	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2482	3010	7027463753811144	DemoSocketClient.exe	5d7e624e7b8f4df7
+5	329	7027464479413519	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+5	329	7027464479413519	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+5	329	7027464479413519	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+5	329	7027464479413519	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+345	2351	7027464499631897	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2352	2654	7027464502519786	DemoSocketClient.exe	5d7e624e7b8f4df7
+6	365	7027465008563946	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+6	365	7027465008563946	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+6	365	7027465008563946	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+6	365	7027465008563946	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+385	2558	7027465030448776	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2559	2965	7027465034432402	DemoSocketClient.exe	5d7e624e7b8f4df7
+5	325	7027465680288272	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+5	325	7027465680288272	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+5	325	7027465680288272	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+5	325	7027465680288272	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+341	2723	7027465704326248	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2724	3146	7027465708421955	DemoSocketClient.exe	5d7e624e7b8f4df7
+4	362	7027466252493328	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+4	362	7027466252493328	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+4	362	7027466252493328	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+4	362	7027466252493328	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+388	2802	7027466276907446	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2803	3235	7027466281038320	DemoSocketClient.exe	5d7e624e7b8f4df7
+6	393	7028839312626196	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+6	393	7028839312626196	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+6	393	7028839312626196	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+6	393	7028839312626196	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+413	2487	7028839333538241	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2488	2805	7028839336551681	DemoSocketClient.exe	5d7e624e7b8f4df7
+11	558	7034163101568660	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+11	558	7034163101568660	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+11	558	7034163101568660	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+11	558	7034163101568660	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+580	2710	7034163123160908	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2711	3037	7034163126322167	DemoSocketClient.exe	5d7e624e7b8f4df7
+4	370	7034164803906249	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+4	370	7034164803906249	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+4	370	7034164803906249	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+4	370	7034164803906249	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+387	2480	7034164824946959	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2481	2811	7034164828134541	DemoSocketClient.exe	5d7e624e7b8f4df7
+6	355	7034166176783804	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+6	355	7034166176783804	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+6	355	7034166176783804	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+6	355	7034166176783804	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+372	2372	7034166196829508	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2373	2690	7034166199910664	DemoSocketClient.exe	5d7e624e7b8f4df7
+8	541	7034166766738763	DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+8	541	7034166766738763	DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+8	541	7034166766738763	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/timestamp	3ff4c4d338cba979
+8	541	7034166766738763	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ClientDemo/build-DemoSocketClient-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketClient_autogen/mocs_compilation.cpp	3ff4c4d338cba979
+563	2833	7034166789553848	CMakeFiles/DemoSocketClient.dir/widget.cpp.obj	545d8b485677068f
+2834	3155	7034166792718467	DemoSocketClient.exe	5d7e624e7b8f4df7

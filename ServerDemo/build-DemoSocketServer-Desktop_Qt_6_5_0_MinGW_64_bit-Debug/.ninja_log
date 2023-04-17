@@ -1,0 +1,101 @@
+# ninja log v5
+1	1558	7027292656293389	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+1	1558	7027292656293389	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+1	1558	7027292656293389	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+1	1558	7027292656293389	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+1570	4251	7027292685136925	CMakeFiles/DemoSocketServer.dir/DemoSocketServer_autogen/mocs_compilation.cpp.obj	529b5b961afe3b61
+1559	4745	7027292690100420	CMakeFiles/DemoSocketServer.dir/main.cpp.obj	4d654f74bc580141
+1564	4906	7027292691725163	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+4906	5351	7027292696020794	DemoSocketServer.exe	344ebb09efc519b5
+8	490	7027447257949840	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+8	490	7027447257949840	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+8	490	7027447257949840	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+8	490	7027447257949840	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+512	2754	7027447280587595	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+2754	3162	7027447284543150	DemoSocketServer.exe	344ebb09efc519b5
+6	443	7027448271962630	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+6	443	7027448271962630	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+6	443	7027448271962630	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+6	443	7027448271962630	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+459	2355	7027448290974451	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+2356	2680	7027448294217493	DemoSocketServer.exe	344ebb09efc519b5
+5	401	7027458065061211	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+5	401	7027458065061211	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+5	401	7027458065061211	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+5	401	7027458065061211	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+423	2333	7027458084363248	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+2334	2737	7027458088214103	DemoSocketServer.exe	344ebb09efc519b5
+8	969	7027458582746843	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+8	969	7027458582746843	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+8	969	7027458582746843	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+8	969	7027458582746843	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+1026	3881	7027458611822521	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+3882	4263	7027458615558835	DemoSocketServer.exe	344ebb09efc519b5
+6	435	7027460717421743	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+6	435	7027460717421743	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+6	435	7027460717421743	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+6	435	7027460717421743	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+454	2461	7027460737768905	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+2462	2782	7027460740865821	DemoSocketServer.exe	344ebb09efc519b5
+8	426	7027461478751739	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+8	426	7027461478751739	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+8	426	7027461478751739	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+8	426	7027461478751739	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+444	2416	7027461498564400	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+2418	2884	7027461503017135	DemoSocketServer.exe	344ebb09efc519b5
+4	342	7027462051931244	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+4	342	7027462051931244	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+4	342	7027462051931244	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+4	342	7027462051931244	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+363	2251	7027462070995584	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+2252	2586	7027462074237599	DemoSocketServer.exe	344ebb09efc519b5
+10	748	7028363964393599	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+10	748	7028363964393599	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+10	748	7028363964393599	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+10	748	7028363964393599	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+772	3225	7028363989199918	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+3226	3661	7028363993386107	DemoSocketServer.exe	344ebb09efc519b5
+5	1141	7028785413495428	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+5	1141	7028785413495428	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+5	1141	7028785413495428	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+5	1141	7028785413495428	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+1156	4329	7028785447184880	CMakeFiles/DemoSocketServer.dir/main.cpp.obj	4d654f74bc580141
+1142	4401	7028785447829979	CMakeFiles/DemoSocketServer.dir/DemoSocketServer_autogen/mocs_compilation.cpp.obj	529b5b961afe3b61
+1148	4520	7028785449150389	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+4520	5019	7028785453941287	DemoSocketServer.exe	344ebb09efc519b5
+5	354	7028835134463238	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+5	354	7028835134463238	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+5	354	7028835134463238	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+5	354	7028835134463238	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+372	2430	7028835155213941	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+2431	2777	7028835158530352	DemoSocketServer.exe	344ebb09efc519b5
+4	376	7028835577258382	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+4	376	7028835577258382	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+4	376	7028835577258382	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+4	376	7028835577258382	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+393	2327	7028835596914675	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+2328	2731	7028835600715344	DemoSocketServer.exe	344ebb09efc519b5
+7	425	7028838035214543	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+7	425	7028838035214543	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+7	425	7028838035214543	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+7	425	7028838035214543	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+444	3028	7028838061116003	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+3029	3488	7028838065670176	DemoSocketServer.exe	344ebb09efc519b5
+6	421	7028838499330027	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+6	421	7028838499330027	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+6	421	7028838499330027	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+6	421	7028838499330027	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+445	2882	7028838523941775	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+2883	3371	7028838528630111	DemoSocketServer.exe	344ebb09efc519b5
+8	552	7034165590515867	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+8	552	7034165590515867	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+8	552	7034165590515867	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+8	552	7034165590515867	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+581	3040	7034165615420237	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+3040	3411	7034165619030737	DemoSocketServer.exe	344ebb09efc519b5
+7	478	7034167085136624	DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+7	478	7034167085136624	DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+7	478	7034167085136624	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/timestamp	f0dfc40b11949da7
+7	478	7034167085136624	C:/Users/Ryan.Nguyen/Desktop/Project NP/DemoSocket/ServerDemo/build-DemoSocketServer-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/DemoSocketServer_autogen/mocs_compilation.cpp	f0dfc40b11949da7
+499	2752	7034167107907664	CMakeFiles/DemoSocketServer.dir/widget.cpp.obj	2f6605911bb9b775
+2752	3075	7034167110878660	DemoSocketServer.exe	344ebb09efc519b5
