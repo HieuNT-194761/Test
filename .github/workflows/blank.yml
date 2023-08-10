@@ -37,7 +37,9 @@ jobs:
   test:
     runs-on: ubuntu-latest
     needs: [build]
-    
+    environment: 
+      name: TestEnvStaging
+      url: "http://dev.myapp.com"
     steps:
       - uses: actions/checkout@v3
       - name: Run test
