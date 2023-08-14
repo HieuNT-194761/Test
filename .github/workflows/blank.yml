@@ -43,4 +43,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run test
-        run: echo Test is running!!
+        run: echo Test is ${{secrets.MY_SECRET}}
